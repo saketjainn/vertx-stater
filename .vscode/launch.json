@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "jsonparctice",
+            "request": "launch",
+            "mainClass": "com.saket.dice.jsonparctice",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PointToPointMessageProducerExample",
+            "request": "launch",
+            "mainClass": "com.saket.dice.eventBus.PointToPointMessageProducerExample",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "PublishSubscribeExample",
+            "request": "launch",
+            "mainClass": "com.saket.dice.eventBus.PublishSubscribeExample",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "RequestResponseExample",
+            "request": "launch",
+            "mainClass": "com.saket.dice.eventBus.RequestResponseExample",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "EventLoopExample",
+            "request": "launch",
+            "mainClass": "com.saket.dice.eventLoops.EventLoopExample",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "MainVerticle",
+            "request": "launch",
+            "mainClass": "com.saket.dice.verticles.MainVerticle",
+            "projectName": "vertx-stater"
+        },
+        {
+            "type": "java",
+            "name": "MainVerticle(1)",
+            "request": "launch",
+            "mainClass": "com.saket.dice.vertx_stater.MainVerticle",
+            "projectName": "vertx-stater"
+        }
+    ]
+}
